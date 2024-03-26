@@ -6,8 +6,8 @@ for (let i = 0; i < 10; i++) {
     let name1 = prompt('name')
     let age1 = +prompt('age')
     while (isNaN(age1) || age1 == 0 || name1 == '') {
-        name1 = prompt('name')
-        age1  = +prompt('age')
+        name1 = prompt('ismingizni kritishinfgiz kerak')
+        age1  = +prompt('yoshingizni kritishinfgiz kerak')
     }
 
     function obj() {
