@@ -13,8 +13,8 @@ for (let i = 0; i < 10; i++) {
     function obj() {
         for (const key in object) {
             console.log(key , `${i+1}`)
-            console.log([key].name = `${name1}`);
-            console.log([key].age = `${age1}`);
+            console.log(key.name = `${name1}`);
+            console.log(key.age = `${age1}`);
         }
     }
 
