@@ -20,3 +20,11 @@ for (let i = 0; i < 10; i++) {
 
     obj()
 }
+// console.log(object);
+
+// const obj = {}
+
+// obj.key = {name : 'behruz' , age : '19' }
+// obj.key1 = {name : 'behruz' , age : '1' }
+
+// console.log(obj);
